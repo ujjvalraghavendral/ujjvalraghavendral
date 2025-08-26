@@ -1,9 +1,11 @@
 ## Hi there 👋
-<--
 
-**ujjvalraghavendral/ujjvalraghavendral** is a ✨ _special_ ✨ repository because its `README.md` has my information.
+I’m **Ujjval Raghavendra L**, a final-year Electronics and Communication Engineering student at VIT Vellore.  
 
-- 👯 I’m looking to collaborate on anything related to electronics,VLSI
-- 📫 How to reach me: ujjvalraghavendral@gmail.com
-- HacktoberFest: https://holopin.me/ujjvalraghavendral
--->
+- 👯 I’m looking to collaborate on anything related to **Electronics, VLSI, and Embedded Systems**  
+- 📫 How to reach me: **ujjvalraghavendral@gmail.com**  
+- 🎉 HacktoberFest: [holopin.me/ujjvalraghavendral](https://holopin.me/ujjvalraghavendral)  
+
+### Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/ujjval-raghavendra-l/)  
+- 📄 [Resume](https://drive.google.com/file/d/1MMEV0ntg0o9GDo8zqy_5Xzf5Yi9Ru9sQ/view?usp=sharing)  
