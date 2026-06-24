@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m **Ujjval Raghavendra L**, a final-year Electronics and Communication Engineering student at VIT Vellore.  
+I’m **Ujjval Raghavendra L**, a B.Tech in Electronics and Communication Engineering graduate from VIT Vellore.  
 
-- 👯 I’m looking to collaborate on anything related to **Electronics, VLSI, and Embedded Systems**  
+- 👯 I’m looking to collaborate on anything related to **Electronics & VLSI**  
 - 📫 How to reach me: **ujjvalraghavendral@gmail.com**  
 - 🎉 HacktoberFest: [holopin.me/ujjvalraghavendral](https://holopin.me/ujjvalraghavendral)  
 
