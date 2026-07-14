@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Ujjval Raghavendra L**, a B.Tech in Electronics and Communication Engineering graduate from VIT Vellore.  
+I'm **Ujjval Raghavendra L**, currently pursuing an **M.Tech in VLSI Design at Manipal Academy of Higher Education (MAHE)**. I completed my **B.Tech in Electronics and Communication Engineering** from **VIT Vellore**.
 
 - 👯 I’m looking to collaborate on anything related to **Electronics & VLSI**  
 - 📫 How to reach me: **ujjvalraghavendral@gmail.com**  
@@ -8,4 +8,3 @@ I’m **Ujjval Raghavendra L**, a B.Tech in Electronics and Communication Engine
 
 ### Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/ujjval-raghavendra-l/)  
-- 📄 [Resume](https://drive.google.com/file/d/1MMEV0ntg0o9GDo8zqy_5Xzf5Yi9Ru9sQ/view?usp=sharing)  
